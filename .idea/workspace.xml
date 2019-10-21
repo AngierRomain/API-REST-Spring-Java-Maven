@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="07975ccb-6273-40cb-bbd0-1d8ecd8e429e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/romain/BlogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/romain/BlogRepository.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +170,9 @@
       <updated>1571387775581</updated>
       <workItem from="1571387779356" duration="10657000" />
       <workItem from="1571642351300" duration="2431000" />
-      <workItem from="1571645020624" duration="703000" />
+      <workItem from="1571645020624" duration="1034000" />
+      <workItem from="1571646582464" duration="2534000" />
+      <workItem from="1571660291372" duration="743000" />
     </task>
     <servers />
   </component>
@@ -177,7 +184,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
