@@ -6,5 +6,17 @@
 </head>
 <body>
     <p>Retrouvez nos blogs ici: <a href="/blog">here</a></p>
+
+    <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+            $.getJSON("http://localhost:8081/blog", function(result){
+                $.each(result, function(key,value) {
+                    $("#productsJson").append(value.id+" "+value.name+" ");
+                });
+            });
+        });
+    </script>
 </body>
 </html>
